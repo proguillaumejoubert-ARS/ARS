@@ -1,9 +1,9 @@
-﻿{
+{
   "workbook_name": "Nuclear_CheckList",
-  "current_revision": "A.1",
+  "current_revision": "A.2",
   "current_checklist_revision": "A",
-  "current_code_revision": "A.1",
+  "current_code_revision": "A.2",
   "release_date": "2026-05-09",
-  "revision_text": "Revision change text not configured yet.",
-  "mandatory_update": faux
+  "revision_text": "First Issue",
+  "mandatory_update": false
 }
