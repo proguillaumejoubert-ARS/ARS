@@ -1,9 +1,21 @@
 {
   "workbook_name": "Nuclear_CheckList",
-  "current_revision": "B.20",
-  "current_checklist_revision": "B",
-  "current_code_revision": "B.20",
-  "release_date": "2026-05-09",
-  "revision_text": "First Issue",
+  "current_revision": "C.13",
+  "current_checklist_revision": "C",
+  "current_code_revision": "C.13",
+  "release_date": "2026-05-21",
+  "revision_text": "C.13_ text",
+  "checklist_revision_history": [
+    {"revision": "A.1", "release_date": "2026-05-09", "revision_text": "First Issue"},
+    {"revision": "B.1", "release_date": "2026-05-09", "revision_text": "B.1_ text"},
+    {"revision": "C.1", "release_date": "2026-05-09", "revision_text": "C.1_ text"}
+  ],
+  "code_revision_history": [
+    {"revision": "C.9", "release_date": "2026-05-17", "revision_text": "C.9_ text"},
+    {"revision": "C.10", "release_date": "2026-05-18", "revision_text": "C.10_ text"},
+    {"revision": "C.11", "release_date": "2026-05-19", "revision_text": "C.11_ text"},
+    {"revision": "C.12", "release_date": "2026-05-20", "revision_text": "C.12_ text"},
+    {"revision": "C.13", "release_date": "2026-05-21", "revision_text": "C.13_ text"}
+  ],
   "mandatory_update": false
 }
