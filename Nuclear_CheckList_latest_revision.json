@@ -17,5 +17,10 @@
     {"revision": "C.12", "release_date": "2026-05-20", "revision_text": "C.12_ text"},
     {"revision": "C.13", "release_date": "2026-05-21", "revision_text": "C.13_ text"}
   ],
+  "critical_update_history": [
+    {"revision": "C.3", "release_date": "2026-05-11", "revision_text": "C.3_ text", "critical_update": true},
+    {"revision": "C.5", "release_date": "2026-05-13", "revision_text": "C.5_ text\nC.5_ text2", "critical_update": true},
+    {"revision": "C.7", "release_date": "2026-05-15", "revision_text": "C.7_ text", "critical_update": true}
+  ],
   "mandatory_update": false
 }
