@@ -1,8 +1,15 @@
 {
   "workbook_name": "Nuclear_CheckList",
+  "current_revision": "A.1",
+  "current_checklist_revision": "A",
+  "current_code_revision": "A.1",
   "release_date": "2026-05-18",
   "revision_text": "First Issue",
-
+  "checklist_revision_history": [
+    {"revision": "A.1", "release_date": "2026-05-18", "revision_text": "First Issue"}
+  ],
+  "code_revision_history": [
+    {"revision": "A.1", "release_date": "2026-05-18", "revision_text": "First Issue"}
   ],
   "critical_update_history": [  ],
   "mandatory_update": false
