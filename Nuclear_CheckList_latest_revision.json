@@ -1,26 +1,16 @@
 {
   "workbook_name": "Nuclear_CheckList",
-  "current_revision": "C.13",
-  "current_checklist_revision": "C",
-  "current_code_revision": "C.13",
-  "release_date": "2026-05-21",
-  "revision_text": "C.13_ text",
+  "current_revision": "A.1",
+  "current_checklist_revision": "A",
+  "current_code_revision": "A.1",
+  "release_date": "2026-05-18",
+  "revision_text": "First Issue",
   "checklist_revision_history": [
-    {"revision": "A.1", "release_date": "2026-05-09", "revision_text": "First Issue"},
-    {"revision": "B.1", "release_date": "2026-05-09", "revision_text": "B.1_ text"},
-    {"revision": "C.1", "release_date": "2026-05-09", "revision_text": "C.1_ text"}
+    {"revision": "A.1", "release_date": "2026-05-18", "revision_text": "First Issue"}
   ],
   "code_revision_history": [
-    {"revision": "C.9", "release_date": "2026-05-17", "revision_text": "C.9_ text"},
-    {"revision": "C.10", "release_date": "2026-05-18", "revision_text": "C.10_ text"},
-    {"revision": "C.11", "release_date": "2026-05-19", "revision_text": "C.11_ text"},
-    {"revision": "C.12", "release_date": "2026-05-20", "revision_text": "C.12_ text"},
-    {"revision": "C.13", "release_date": "2026-05-21", "revision_text": "C.13_ text"}
+    {"revision": "A.1", "release_date": "2026-05-18", "revision_text": "First Issue"}
   ],
-  "critical_update_history": [
-    {"revision": "C.3", "release_date": "2026-05-11", "revision_text": "C.3_ text", "critical_update": true},
-    {"revision": "C.5", "release_date": "2026-05-13", "revision_text": "C.5_ text\nC.5_ text2", "critical_update": true},
-    {"revision": "C.7", "release_date": "2026-05-15", "revision_text": "C.7_ text", "critical_update": true}
-  ],
+  "critical_update_history": [  ],
   "mandatory_update": false
 }
